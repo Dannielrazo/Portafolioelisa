@@ -1,0 +1,7 @@
+
+.social{
+  padding-block-end: 2rem ;
+  display: flex;
+  gap: 1rem;
+  /* border: 1px solid red; */
+}
